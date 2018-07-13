@@ -1,0 +1,314 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	border          :   0.00pt none #cebd97;
+	}
+.cc02               { /* Common */
+	font            : italic 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+div#e31             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  65.25pt;
+	width           : 745.50pt;
+	height          : 219.75pt;
+	}
+span#e30            { /* images/randsperk001013.g... */
+	background      : transparent url(images/randsperk001013.gif) no-repeat top left;
+	position        : absolute;
+	left            :  43.50pt;
+	top             :  66.00pt;
+	width           : 702.00pt;
+	height          : 189.75pt;
+	}
+div#e29             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 285.00pt;
+	width           : 745.50pt;
+	height          : 288.75pt;
+	}
+span#e28            { /* images/randsperk001012.j... */
+	background      : transparent url(images/randsperk001012.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  43.50pt;
+	top             :  68.25pt;
+	width           : 658.50pt;
+	height          : 187.50pt;
+	}
+span#e27            { /* images/randsperk001007.j... */
+	background      : transparent url(images/randsperk001007.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  43.50pt;
+	top             : 262.50pt;
+	width           :  84.75pt;
+	height          :  22.50pt;
+	}
+h4#e26              { /* About Us */
+	padding-top     :   3.75pt;
+	position        : absolute;
+	left            :  43.50pt;
+	top             : 260.25pt;
+	width           :  81.75pt;
+	height          :  20.25pt;
+	}
+div#e25             {
+	border          :   0.00pt none #ececec;
+	background      : #ffffff url(images/randsperk001010.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 285.00pt;
+	width           : 221.25pt;
+	height          : 219.75pt;
+	}
+div#e24             { /* Serving our community fo... */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            :  57.00pt;
+	top             : 300.00pt;
+	width           : 192.00pt;
+	height          : 159.00pt;
+	}
+span#e23            { /* images/randsperk001007.j... */
+	background      : transparent url(images/randsperk001007.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 264.00pt;
+	top             : 262.50pt;
+	width           :  84.75pt;
+	height          :  22.50pt;
+	}
+h4#e22              { /* Radon */
+	padding-top     :   3.00pt;
+	position        : absolute;
+	left            : 264.00pt;
+	top             : 261.00pt;
+	width           :  81.75pt;
+	height          :  15.00pt;
+	}
+div#e21             {
+	border          :   0.00pt none #ececec;
+	background      : #ffffff url(images/randsperk001008.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 263.25pt;
+	top             : 285.00pt;
+	width           : 221.25pt;
+	height          : 219.75pt;
+	}
+div#e20             { /* Radon is a radioactive g... */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            : 279.75pt;
+	top             : 300.00pt;
+	width           : 184.50pt;
+	height          : 201.75pt;
+	}
+span#e19            { /* images/randsperk001007.j... */
+	background      : transparent url(images/randsperk001007.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 484.50pt;
+	top             : 262.50pt;
+	width           :  84.75pt;
+	height          :  22.50pt;
+	}
+h4#e18              { /* Contact Us */
+	padding-top     :   3.75pt;
+	position        : absolute;
+	left            : 484.50pt;
+	top             : 260.25pt;
+	width           :  81.75pt;
+	height          :  20.25pt;
+	}
+div#e17             {
+	border          :   0.00pt none #ececec;
+	background      : #ffffff url(images/randsperk001006.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 483.75pt;
+	top             : 285.00pt;
+	width           : 221.25pt;
+	height          : 219.75pt;
+	}
+div#e16             { /* <DIV><U>Phone:</U> <BR> ... */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            : 495.00pt;
+	top             : 300.00pt;
+	width           : 193.50pt;
+	height          : 188.25pt;
+	}
+h6#e15              { /* READ MORE  */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	padding-top     :   8.25pt;
+	position        : absolute;
+	left            :  42.00pt;
+	top             : 507.75pt;
+	width           : 204.75pt;
+	height          :  12.75pt;
+	}
+a#a15               { /* READ MORE  */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	}
+h6#e14              { /* READ MORE  */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	padding-top     :   8.25pt;
+	position        : absolute;
+	left            : 264.00pt;
+	top             : 507.75pt;
+	width           : 202.50pt;
+	height          :  12.75pt;
+	}
+a#a14               { /* READ MORE  */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	}
+h6#e13              { /* READ MORE  */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	padding-top     :   8.25pt;
+	position        : absolute;
+	left            : 486.00pt;
+	top             : 507.75pt;
+	width           : 201.00pt;
+	height          :  12.75pt;
+	}
+a#a13               { /* READ MORE  */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	}
+span#e12            { /* images/randsperk001005.j... */
+	background      : transparent url(images/randsperk001005.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 615.75pt;
+	top             :  42.75pt;
+	width           :  84.75pt;
+	height          :  22.50pt;
+	}
+div#e11             { /* Contact Us */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	padding-top     :   3.75pt;
+	position        : absolute;
+	left            : 615.75pt;
+	top             :  42.75pt;
+	width           :  83.25pt;
+	height          :  17.25pt;
+	}
+a#a11               { /* Contact Us */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	}
+span#e10            { /* images/randsperk001005.j... */
+	background      : transparent url(images/randsperk001005.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 444.75pt;
+	top             :  42.75pt;
+	width           :  84.75pt;
+	height          :  22.50pt;
+	}
+div#e9              { /* About Radon */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	padding-top     :   3.75pt;
+	position        : absolute;
+	left            : 444.75pt;
+	top             :  42.75pt;
+	width           :  83.25pt;
+	height          :  17.25pt;
+	}
+a#a9                { /* About Radon */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	}
+span#e8             { /* images/randsperk001004.j... */
+	background      : transparent url(images/randsperk001004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 273.75pt;
+	top             :  43.50pt;
+	width           :  84.75pt;
+	height          :  22.50pt;
+	}
+div#e7              { /* Home */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	padding-top     :   3.75pt;
+	position        : absolute;
+	left            : 273.75pt;
+	top             :  43.50pt;
+	width           :  83.25pt;
+	height          :  17.25pt;
+	}
+span#e6             { /* images/randsperk001002.j... */
+	background      : transparent url(images/randsperk001002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 530.25pt;
+	top             :  42.75pt;
+	width           :  84.75pt;
+	height          :  22.50pt;
+	}
+div#e5              { /* Installation */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	padding-top     :   3.75pt;
+	position        : absolute;
+	left            : 530.25pt;
+	top             :  42.75pt;
+	width           :  83.25pt;
+	height          :  17.25pt;
+	}
+a#a5                { /* Installation */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	}
+span#e4             { /* images/randsperk001002.j... */
+	background      : transparent url(images/randsperk001002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 359.25pt;
+	top             :  42.75pt;
+	width           :  84.75pt;
+	height          :  22.50pt;
+	}
+div#e3              { /* About Us */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	padding-top     :   3.75pt;
+	position        : absolute;
+	left            : 359.25pt;
+	top             :  42.75pt;
+	width           :  83.25pt;
+	height          :  17.25pt;
+	}
+a#a3                { /* About Us */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	}
+div#e2              { /* John 3:16 "For God so lo... */
+	position        : absolute;
+	left            :  40.50pt;
+	top             : 539.25pt;
+	width           : 660.75pt;
+	height          :  18.00pt;
+	}
+span#e1             { /* images/randsperk001001.j... */
+	background      : transparent url(images/randsperk001001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   3.00pt;
+	top             :  18.00pt;
+	width           : 281.25pt;
+	height          :  91.50pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
